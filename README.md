@@ -1,7 +1,6 @@
 # Dance-Dance-Revolution
 
-Problem Statement
-Our goal for the final project is to create a Dance Dance Revolution type game.
+The goal for the final project is to create a Dance Dance Revolution type game.
 
 Modules
 
